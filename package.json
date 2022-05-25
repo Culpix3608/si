@@ -29,7 +29,7 @@
     "xfo-whitelist": "0.1.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.2",
+    "grunt": "~1.5.3",
     "grunt-gettext-finder": "0.0.2",
     "grunt-contrib-csslint": "~0.1.2",
     "grunt-contrib-jshint": "~0.4.3",
